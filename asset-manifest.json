@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/test-deploy-react-github/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/test-deploy-react-github/static/js/main.2a506b49.chunk.js",
-    "main.js.map": "/test-deploy-react-github/static/js/main.2a506b49.chunk.js.map",
+    "main.css": "/test-deploy-react-github/static/css/main.91a6b472.chunk.css",
+    "main.js": "/test-deploy-react-github/static/js/main.10272d47.chunk.js",
+    "main.js.map": "/test-deploy-react-github/static/js/main.10272d47.chunk.js.map",
     "runtime-main.js": "/test-deploy-react-github/static/js/runtime-main.a2c55a21.js",
     "runtime-main.js.map": "/test-deploy-react-github/static/js/runtime-main.a2c55a21.js.map",
     "static/js/2.94f80007.chunk.js": "/test-deploy-react-github/static/js/2.94f80007.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.4928270c.chunk.js": "/test-deploy-react-github/static/js/3.4928270c.chunk.js",
     "static/js/3.4928270c.chunk.js.map": "/test-deploy-react-github/static/js/3.4928270c.chunk.js.map",
     "index.html": "/test-deploy-react-github/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/test-deploy-react-github/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.91a6b472.chunk.css.map": "/test-deploy-react-github/static/css/main.91a6b472.chunk.css.map",
     "static/js/2.94f80007.chunk.js.LICENSE.txt": "/test-deploy-react-github/static/js/2.94f80007.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/test-deploy-react-github/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a2c55a21.js",
     "static/js/2.94f80007.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.2a506b49.chunk.js"
+    "static/css/main.91a6b472.chunk.css",
+    "static/js/main.10272d47.chunk.js"
   ]
 }
